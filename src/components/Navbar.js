@@ -10,7 +10,7 @@ function Navbar() {
   return (
     <div className='Navbar'>
 
-{show ? "HOME STUF FBELOW" : ""}
+{/* {show ? "HOME STUF FBELOW" : ""} */}
   　<Link  className='NavLinks' to={`/`}>
      🏡
     </Link>

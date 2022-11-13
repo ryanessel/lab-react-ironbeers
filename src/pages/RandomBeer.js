@@ -54,7 +54,7 @@ import { useState, useEffect } from "react";
 </div>
 
 
-<button onClick={()=> setClick(click + 1)}></button>
+<button onClick={()=> setClick(click + 1)}>CLICK FOR A RANOM BEER!</button>
        
      
 
